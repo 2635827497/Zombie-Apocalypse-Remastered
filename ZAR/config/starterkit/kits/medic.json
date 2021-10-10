@@ -1,0 +1,80 @@
+{
+  "claimlimit": 0,
+  "localizedname": "Medic",
+  "stacks": [
+    {
+      "item": "minecraft:silver_shulker_box",
+      "count": 1,
+      "nbt": {
+        "BlockEntityTag": {
+          "Items": [
+            {
+              "Slot": 0,
+              "id": "mw:apc9", 
+              "Count": 1,
+              "Damage": 0
+            },
+            {
+              "Slot": 1,
+              "id": "mw:apc9mag", 
+              "Count": 6,
+              "Damage": 0
+            },
+            {
+              "Slot": 2,
+              "id": "mw:bijiareflex", 
+              "Count": 1,
+              "Damage": 0
+            },
+            {
+              "Slot": 3,
+              "id": "mw:stubbygrip", 
+              "Count": 1,
+              "Damage": 0
+            },
+            {
+              "Slot": 4,
+              "id": "mw:silencer9mm", 
+              "Count": 1,
+              "Damage": 0
+            },
+            {
+              "Slot": 5,
+              "id": "mw:laser", 
+              "Count": 1,
+              "Damage": 0
+            },
+            {
+              "Slot": 6,
+              "id": "scalinghealth:healingitem",
+              "Count": 2,
+              "Damage": 1
+            },
+            {
+              "Slot": 7,
+              "id": "scalinghealth:healingitem",
+              "meta": 0,
+              "Count": 4,
+              "Damage": 0
+            },
+            {
+              "Slot": 8,
+              "id": "mw:m18white",
+              "Count": 1,
+              "Damage": 0
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "commands": [
+    "/say Recruited as [Medic]"
+  ],
+  "r": 255,
+  "g": 47,
+  "b": 216,
+  "textR": 255,
+  "textG": 255,
+  "textB": 255
+}

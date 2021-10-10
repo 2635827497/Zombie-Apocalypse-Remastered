@@ -1,0 +1,68 @@
+{
+  "claimlimit": 0,
+  "localizedname": "Explosion",
+  "stacks": [
+    {
+      "item": "minecraft:silver_shulker_box",
+      "count": 1,
+      "nbt": {
+        "BlockEntityTag": {
+          "Items": [
+            {
+              "Slot": 0,
+              "id": "mw:gl06", 
+              "Count": 1,
+              "Damage": 0
+            },
+            {
+              "Slot": 1,
+              "id": "mw:makarov_pm", 
+              "Count": 1,
+              "Damage": 0
+            },
+            {
+              "Slot": 2,
+              "id": "mw:grenade40mm", 
+              "Count": 12,
+              "Damage": 0
+            },
+            {
+              "Slot": 3,
+              "id": "mw:makarovmag", 
+              "Count": 3,
+              "Damage": 0
+            },
+            {
+              "Slot": 4,
+              "id": "mw:impactgrenade", 
+              "Count": 1,
+              "Damage": 0
+            },
+            {
+              "Slot": 5,
+              "id": "mw:impactgrenade", 
+              "Count": 1,
+              "Damage": 0
+            },
+            {
+              "Slot": 6,
+              "id": "mw:impactgrenade", 
+              "Count": 1,
+              "Damage": 0
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "commands": [
+    "/say Recruited as [Explosion]"
+  ],
+  "r": 220,
+  "g": 20,
+  "b": 60,
+  "textR": 255,
+  "textG": 255,
+  "textB": 255
+}
+

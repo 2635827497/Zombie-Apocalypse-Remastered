@@ -1,0 +1,119 @@
+{
+  "default": {
+    "Awareness Radius": 64,
+    "Xray Distance": 64,
+    "Attack Everything": false,
+    "Attack Pets": true,
+    "Attack Villagers": true,
+    "Neutral Mob": false,
+    "Strafe Evade": true,
+    "Animal Retaliate": true,
+    "Ranged Atk Dist": 1,
+    "Ranged Atk Error": 2,
+    "Arrow Tips": [
+      "minecraft:slowness:60:0"
+    ],
+    "Thrown Potions": [
+      "minecraft:harming:1:0",
+      "minecraft:slowness:300:0",
+      "minecraft:blindness:300:0",
+      "minecraft:poison:300:0",
+      "minecraft:weakness:300:1",
+      "minecraft:mining_fatigue:300:2"
+    ],
+    "Pillaring": false,
+    "Pillar Block": "minecraft:cobblestone:0",
+    "Digging": false,
+    "Digging Blacklist": [],
+    "Invert Blacklist": false,
+    "Requires Tools": true,
+    "Griefing": false,
+    "Grief Targets": [
+      "minecraft:wooden_door",
+      "minecraft:iron_door",
+      "minecraft:glass_pane",
+      "sevendaystomine:boards"
+    ],
+    "Demolition": 0.0,
+    "Spider Webbing": 25.0,
+    "Ender-Tele-Target": false,
+    "Infectious": false,
+    "Wither Skeletons": 0.02,
+    "Jockey": 0.0,
+    "Powered": 0.0,
+    "Walking Fuse": false,
+    "Napalm": false,
+    "Breaching": false,
+    "Cena": 0.0,
+    "Health": 1.0,
+    "Damage": 1.0,
+    "Speed": 1.0,
+    "Knockback": 1.0,
+    "Boss Mod Health": true,
+    "Boss Mod Damage": true,
+    "Boss Mod Speed": false,
+    "Boss Mod Knockback": false,
+    "Debug Targets": false
+  },
+  "entities": {
+    "minecraft:spider": {
+      "Spider Webbing": 0.15
+    },
+    "minecraft:zombie": {
+      "Demolition": 0.03,
+      "Digging": true,
+      "Griefing": true,
+      "Pillaring": true,
+      "Infectious": true
+    },
+    "minecraft:cave_spider": {
+      "Spider Webbing": 0.15
+    },
+    "sevendaystomine:reanimated_corpse": {
+      "Griefing": true,
+      "Infectious": true
+    },
+    "sevendaystomine:burnt_zombie": {
+      "Griefing": true
+    },
+    "sevendaystomine:zombie_soldier": {
+      "Demolition": 0.06,
+      "Digging": true,
+      "Griefing": true,
+      "Pillaring": true,
+      "Infectious": true
+    },
+    "sevendaystomine:bloated_zombie": {
+      "Digging": true,
+      "Griefing": true,
+      "Infectious": true
+    },
+    "sevendaystomine:zombie_miner": {
+      "Demolition": 0.05,
+      "Digging": true,
+      "Griefing": true,
+      "Pillaring": true,
+      "Infectious": true
+    },
+    "sevendaystomine:feral_zombie": {
+      "Digging": true,
+      "Griefing": true,
+      "Pillaring": true,
+      "Infectious": true
+    },
+    "sevendaystomine:zombie_policeman": {
+      "Digging": true,
+      "Griefing": true,
+      "Infectious": true
+    },
+    "sevendaystomine:infected_survivor": {
+      "Digging": true,
+      "Pillaring": true,
+      "Infectious": true
+    },
+    "sevendaystomine:plagued_nurse": {
+      "Griefing": true,
+      "Infectious": true
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "claimlimit": 0,
+  "localizedname": "Sniper",
+  "stacks": [
+    {
+      "item": "minecraft:silver_shulker_box",
+      "count": 1,
+      "nbt": {
+        "BlockEntityTag": {
+          "Items": [
+            {
+              "Slot": 0,
+              "id": "mw:as50", 
+              "Count": 1,
+              "Damage": 0
+            },
+            {
+              "Slot": 1,
+              "id": "mw:chiappa_rhino", 
+              "Count": 1,
+              "Damage": 0
+            },
+            {
+              "Slot": 2,
+              "id": "mw:as50mag_2", 
+              "Count": 4,
+              "Damage": 0
+            },
+            {
+              "Slot": 3,
+              "id": "mw:bullet357", 
+              "Count": 36,
+              "Damage": 0
+            },
+            {
+              "Slot": 4,
+              "id": "mw:leupoldrailscope", 
+              "Count": 1,
+              "Damage": 0
+            },
+            {
+              "Slot": 5,
+              "id": "securitycraft:claymore", 
+              "Count": 2,
+              "Damage": 0
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "commands": [
+    "/say Recruited as [Sniper]"
+  ],
+  "r": 180,
+  "g": 180,
+  "b": 180,
+  "textR": 255,
+  "textG": 255,
+  "textB": 255
+}

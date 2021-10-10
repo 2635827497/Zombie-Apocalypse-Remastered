@@ -1,0 +1,73 @@
+{
+  "claimlimit": 0,
+  "localizedname": "Assault",
+  "stacks": [
+    {
+      "item": "minecraft:silver_shulker_box",
+      "count": 1,
+      "nbt": {
+        "BlockEntityTag": {
+          "Items": [
+            {
+              "Slot": 0,
+              "id": "mw:hk_g95", 
+              "Count": 1,
+              "Damage": 0
+            },
+            {
+              "Slot": 1,
+              "id": "mw:p226", 
+              "Count": 1,
+              "Damage": 0
+            },
+            {
+              "Slot": 2,
+              "id": "mw:m4a1mag_2", 
+              "Count": 4,
+              "Damage": 0
+            },
+            {
+              "Slot": 3,
+              "id": "mw:m9mag_2", 
+              "Count": 3,
+              "Damage": 0
+            },
+            {
+              "Slot": 4,
+              "id": "mw:silencer9mm", 
+              "Count": 1,
+              "Damage": 0
+            },
+            {
+              "Slot": 5,
+              "id": "mw:laser", 
+              "Count": 1,
+              "Damage": 0
+            },
+            {
+              "Slot": 6,
+              "id": "mw:flash", 
+              "Count": 1,
+              "Damage": 0
+            },
+            {
+              "Slot": 7,
+              "id": "mw:flash", 
+              "Count": 1,
+              "Damage": 0
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "commands": [
+    "/say Recruited as [Assault]"
+  ],
+  "r": 0,
+  "g": 0,
+  "b": 0,
+  "textR": 255,
+  "textG": 255,
+  "textB": 255
+}
