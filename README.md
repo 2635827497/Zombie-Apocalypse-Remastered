@@ -1,6 +1,13 @@
-# Zombie Apocalypse Remastered
+<h1 align="center">
+  <br>
+  <img src="https://i.imgur.com/tpMKQJe.png" width=615 height=390>
+  <br>
+</h1>
 
-<img src="https://cf.way2muchnoise.eu/full_482630_Downloads.svg" style="zoom:150%;" />
+
+<h4 align="center">Zombie Apocalypse Remastered source repo.</h4>
+
+---
 
 **Zombie Apocalypse Remastered** is a recreation modpack from [Zombie Apocalypse](https://www.curseforge.com/minecraft/modpacks/zombie-apocalypse-slow-zombies-by-forge-labs) originally by Forge Labs, focusing on a more balanced, progressive, and most importantly plug and play experience based on Zombie Apocalypse's modlist and configs.
 
